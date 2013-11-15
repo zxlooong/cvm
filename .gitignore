@@ -1,0 +1,73 @@
+#   zxlooong@gmail.com	
+
+#### this project
+
+
+#### tmp files & folders
+tmp/
+.*.swp
+*~
+#.gitignore
+*.bak
+
+#compiled objects
+*.class
+*.o
+*.slo
+*.lo
+#*.so
+#*.dylib
+*.iai
+*.la
+#*.a
+
+#### unix & mac
+#.*
+#.*/
+
+#### macosx & xcode
+xcuserdata/
+.DS_Store
+.DS_Store?
+*.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+
+#### windows 
+sys$command
+desktop.ini
+thumbs.db
+~$*
+
+#### vc
+ipch/
+Release/
+ReleaseU/
+Release Unicode/
+ReleaseMinDependency/
+ReleaseUMinDependency/
+Debug/
+DebugU/
+Debug Unicode/
+DebugMinDependency/
+DebugUMinDependency/
+*.aps
+*.opt
+*.ncb
+*.plg
+*.positions
+#*.dsw
+#*.sln
+*.suo
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.sdf
+*.opensdf
+*.vcxproj.filters
+*.vcxproj.user
+*_i.c
+*_i.h
+*.vcproj.*
